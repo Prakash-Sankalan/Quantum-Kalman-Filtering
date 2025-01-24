@@ -1,0 +1,21 @@
+The increasing demand for high-precision real-time data processing in satellite clusters
+
+requires efficient algorithms to manage inherent uncertainties in space-based systems. We propose an
+
+innovative framework that integrates Quantum Neural Network (QNN) architecture into Kalman filtering
+
+processes, specifically tailored for Low Earth Orbit satellite clusters. Our quantum computing-based
+
+approach achieves a significant improvement in prediction accuracy and a reduction in mean absolute error
+
+compared to classical Kalman filtering techniques. These advances significantly improve computational
+
+efficiency and error handling, making the method highly scalable under varying noise levels. A comparative
+
+analysis demonstrates the superior performance of the Quantum Kalman Filter in processing speed, resource
+
+utilization, and prediction accuracy, all evaluated within the constraints of LEO satellite constellations.
+
+These findings highlight the potential of quantum computing to optimize data processing strategies for
+
+future missions, including deep space explorations.
